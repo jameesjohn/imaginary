@@ -32,6 +32,8 @@ bin/
 *.attr
 *.swp
 
+.vscode
+
 imaginary
 bin/imaginary
 atomic
